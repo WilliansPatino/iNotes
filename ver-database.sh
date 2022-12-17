@@ -1,0 +1,1 @@
+jq '.' db/data.json 
